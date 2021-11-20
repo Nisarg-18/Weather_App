@@ -1,0 +1,11 @@
+packages used:
+http
+font_awesome_flutter
+form_field_validator
+flutter_spinkit
+
+
+api used:
+https://openweathermap.org/current
+
+Name-Nisarg Shah
